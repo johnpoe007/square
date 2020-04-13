@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myapp-f6a82": {
+      "hosting": {
+        "myapp": [
+          "myapp-f6a82"
+        ]
+      }
+    }
+  }
+}
